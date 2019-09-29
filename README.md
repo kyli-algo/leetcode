@@ -1,0 +1,2 @@
+# leetcode
+trainning algorithm
